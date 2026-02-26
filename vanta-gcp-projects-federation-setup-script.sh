@@ -34,7 +34,7 @@ awsRoleName="scanner-apj"
 identityProviderID="vanta-aws-apj"
 orgRoleID="VantaOrganizationScanner-apj"
 projectName="vanta-scanner-apj"
-projectRoleID="VantaProjectScannerAPJ"
+projectRoleID="VantaProjectScanner-apj"
 subjectName="vanta-scanner-apj"
 
 set -e
