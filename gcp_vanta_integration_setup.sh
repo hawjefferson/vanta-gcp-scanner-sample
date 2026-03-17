@@ -30,12 +30,12 @@
 # OUTPUT: The project number of the created GCP project. Copy this value into the GCP connection flow at
 #   https://app.vanta.com/integrations.
 
-awsRoleName="scanner-apj"
-identityProviderID="vanta-aws-apj"
-orgRoleID="vantaorganizationscanner-apj"
-projectName="vanta-apj"
-projectRoleID="vantaprojectscanner-apj"
-subjectName="vanta-scanner-apj"
+awsRoleName="scanner-apj01"
+identityProviderID="vanta-aws-apj01"
+orgRoleID="vantaorganizationscanner-apj01"
+projectName="vanta-apj01"
+projectRoleID="vantaprojectscanner-apj01"
+subjectName="vanta-scanner-apj01"
 
 set -e
 
