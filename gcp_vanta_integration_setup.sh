@@ -33,7 +33,7 @@
 awsRoleName="scanner-apj"
 identityProviderID="vanta-aws-apj"
 orgRoleID="vantaorganizationscanner-apj"
-projectName="vanta-scanner-apj"
+projectName="vanta-apj"
 projectRoleID="vantaprojectscanner-apj"
 subjectName="vanta-scanner-apj"
 
